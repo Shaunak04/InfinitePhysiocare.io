@@ -1,0 +1,16 @@
+{
+  "name": "Infinite PhysioCare",
+  "short_name": "Infinite PhysioCare",
+  "start_url": "/index.html",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f5f7f4",
+  "theme_color": "#1f6b63",
+  "icons": [
+    {
+      "src": "/assets/icons/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
